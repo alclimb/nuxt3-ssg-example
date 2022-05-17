@@ -1,5 +1,8 @@
 {
-  "private": true,
+  "name": "nuxt3-ssg",
+  "version": "1.0.0",
+  "author": "hikaru",
+  "license": "MIT",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
