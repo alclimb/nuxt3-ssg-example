@@ -13,9 +13,9 @@ This is a repository created to explain the following article.
 ## Requirement
 
 - Node.js (v16.14.2)
-- Ubuntu 20.04 もしくは WSL2 環境。macOS 環境でも恐らく可能
+- Windows、Ubuntu 20.04 もしくは WSL2 環境。macOS 環境でも恐らく可能
 
-  (素の Windows 環境では nuxt:3.0.0-rc.3 の不具合で npm run generate ができません。)
+  ~~(素の Windows 環境では nuxt:3.0.0-rc.3 の不具合で npm run generate ができません。)~~ ⇒ rc.6 で修正済みのため Windows 上で実行可能です。
 
 ## Setup
 
